@@ -6,10 +6,9 @@ A warm, high-contrast Neovim colorscheme with dark (`embers`) and light
 
 ## Screenshots
 
-<!-- Add screenshots here, e.g.:
 ![dark](./screenshots/dark.png)
 ![light](./screenshots/light.png)
--->
+
 
 ## Installation
 
