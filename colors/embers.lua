@@ -66,7 +66,7 @@ hl(0, "@tag.delimiter", { link = "@punctuation" })
 hl(0, "@tag.attribute", { link = "@variable" })
 
 hl(0, "@lsp.type.enumMember", { fg = "#A6B5D6" })
-hl(0, "@lsp.type.macro", { fg = "#6F83AA" })
+hl(0, "@lsp.type.macro", { fg = "#F0D05F" })
 hl(0, "@lsp.type.function", { link = "@function" })
 hl(0, "@lsp.type.method", { link = "@function", bold = true })
 hl(0, "@lsp.type.property", { link = "@property" })
