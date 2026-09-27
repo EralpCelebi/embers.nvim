@@ -59,7 +59,7 @@ hl(0, "@constant.builtin", { link = "@constant", bold = true })
 hl(0, "@constructor", { link = "@punctuation", bold = true })
 hl(0, "@markup.math", { link = "@constant", bold = true })
 
-hl(0, "@module", { fg = "#62C9AC", bold = false })
+hl(0, "@module", { fg = "#52B99C", bold = false })
 
 hl(0, "@tag", { link = "@function", bold = true })
 hl(0, "@tag.delimiter", { link = "@punctuation" })
